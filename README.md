@@ -1,5 +1,8 @@
 # Graph Clustering Techniques
 
+![Cluster](cluster.png)
+
+
 ## Erdös-Rényi Graph Analysis and Degree Distribution
 
 Focuses on the exploration and analysis of Erdös-Rényi graphs:
