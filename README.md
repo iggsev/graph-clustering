@@ -1,8 +1,5 @@
 # Graph Clustering Techniques
 
-![Cluster](cluster.png)
-
-
 ## Erdös-Rényi Graph Analysis and Degree Distribution
 
 Focuses on the exploration and analysis of Erdös-Rényi graphs:
@@ -50,4 +47,5 @@ Analysis of similarity graph construction and its effect on clustering:
    - Valued graphs based on mutual and simple neighbors, considering different neighbor counts.
 
 
+![Cluster](cluster.png)
 
